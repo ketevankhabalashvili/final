@@ -1,0 +1,32 @@
+.about-us-section {
+    background: #111111;
+    color: white;
+    padding-bottom: 30px!important;
+}
+.aboutus-title {
+    color: white;
+    margin: 3%;
+    font-size: 1.5em;
+    padding-top: 50px;
+}
+.about-us {
+    text-align: center;
+    font-size: 17px;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+
+.li {
+    float: left;
+    width: 30%;
+    padding: 3%;
+    margin-bottom: 50px;
+}
+
